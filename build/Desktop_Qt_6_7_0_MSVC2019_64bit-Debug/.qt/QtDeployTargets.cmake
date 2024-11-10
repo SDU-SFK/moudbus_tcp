@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_moudbus_TCP_FILE E:/2_workcode/QT/moudbus_TCP/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/moudbus_TCP.exe)
+set(__QT_DEPLOY_TARGET_moudbus_TCP_RUNTIME_DLLS D:/QT/6.7.0/msvc2019_64/bin/Qt6SerialBusd.dll;D:/QT/6.7.0/msvc2019_64/bin/Qt6Widgetsd.dll;D:/QT/6.7.0/msvc2019_64/bin/Qt6Networkd.dll;D:/QT/6.7.0/msvc2019_64/bin/Qt6SerialPortd.dll;D:/QT/6.7.0/msvc2019_64/bin/Qt6Guid.dll;D:/QT/6.7.0/msvc2019_64/bin/Qt6Cored.dll)
